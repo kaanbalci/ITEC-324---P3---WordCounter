@@ -1,0 +1,1 @@
+Thread 0: the file "/Users/Kaan/Desktop/BigNumPkg.adb" has 741 words.
